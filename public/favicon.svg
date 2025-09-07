@@ -3,7 +3,7 @@
   <circle cx="16" cy="16" r="16" fill="#0f172a"/>
   
   <!-- Dumbbell icon -->
-  <g transform="translate(6, 12)">
+  <g transform="translate(6, 13)">
     <!-- Left weight -->
     <rect x="0" y="2" width="3" height="6" rx="1.5" fill="#14b8a6"/>
     <!-- Left bar -->

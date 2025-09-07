@@ -171,7 +171,9 @@ export default function AuthPage() {
         <div className="absolute inset-0 bg-gradient-to-br from-teal-500/20 to-orange-500/20" />
         <div className="fitness-bg w-full flex items-center justify-center p-12">
           <div className="text-center">
-            <Logo size="xl" />
+            <div className="flex justify-center">
+              <Logo size="xl" />
+            </div>
             <h1 className="mt-8 text-4xl font-bold text-gray-100">
               Transform Your Fitness Journey
             </h1>
